@@ -1,0 +1,22 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "description": "Book store is a Node.js and Express.js application for fetching book list informations and searching in the available list by ISBN, Name. Registered users can add, modify and delete their comments on books in the list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemizI/book-store.git"
+  },
+  "author": "igraorartemiz@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemizI/book-store/issues"
+  },
+  "homepage": "https://github.com/ArtemizI/book-store#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
